@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Normal - Login</description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbfe29c7-8267-422a-aaff-ec351539becc</testCaseGuid>
+</TestCaseEntity>
